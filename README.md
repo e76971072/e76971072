@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-playing-git-master.e76971072.vercel.app/api/spotify-playing" alt="e76971072 Spotify Playing" width="350" />](https://open.spotify.com/user/e769710)
+[<img src="https://spotify-playing-myg9ovi23.vercel.app/api/spotify" alt="e76971072 Spotify Playing" width="350" />](https://open.spotify.com/user/e769710)
 
 ### Connect with me:
 
