@@ -1,10 +1,5 @@
 ### Hi there, I'm Kevin - [website] 👋
 
-<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/Hi/%20I'm%20Kevin?flag=nb?gradient=royal%20blue%20+%20petrol" width="256" height="64" alt="My pronouns are Hi/ I'm Kevin">
-</a>
-
-
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
