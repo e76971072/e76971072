@@ -13,6 +13,9 @@
 - ⚡  &nbsp;  Fun fact: I love to play [soccer] ⚽️  &nbsp;  and [trade options]  💹
 
 
+### What am I doing now ??
+ > probably showing my mom how to delete her youtube comments. 🤦
+
 
 ### 🎧 <img align="left" alt=" " width="80px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
 
