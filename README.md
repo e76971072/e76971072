@@ -1,8 +1,6 @@
 ### Hi there, I'm Kevin - [website] 👋
 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 
 
@@ -12,9 +10,13 @@
 - 🌱  &nbsp; I’m currently learning everything 🤣
 - 👯  &nbsp; I’m looking to collaborate with other developers 
 - 🥅  &nbsp; 2020 Goals: Contribute more to Open Source projects
-- ⚡  &nbsp;  Fun fact: I love to play soccer ⚽️ and trade options 💹
+- ⚡  &nbsp;  Fun fact: I love to play [soccer] ⚽️  &nbsp;  and [trade options]  💹
 
-### Spotify Playing 🎧
+
+
+### 🎧 <img align="left" alt=" " width="80px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
+
+
 
 [<img src="https://spotify-playing-myg9ovi23.vercel.app/api/spotify" alt="e76971072 Spotify Playing" width="350" />](https://open.spotify.com/user/e769710)
 
@@ -62,7 +64,6 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 <br />
 <br />
 
@@ -89,4 +90,6 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/nguyenbaoan1
 [linkedin]: https://www.linkedin.com/in/kevin-nguyen-222904127/
+[soccer]:   https://www.facebook.com/Austin-Fusion-FC-310791971273/?ref=page_internal
+[trade options]:   https://thetagang.com/e76971072
 
