@@ -93,7 +93,7 @@
 
 
 ### Want to learn Options Trading ? 
-![Discord](https://img.shields.io/discord/729552489602351114?style=for-the-badge)
+[![Discord](https://img.shields.io/discord/729552489602351114?style=for-the-badge)](https://discord.gg/cszutA)
 
 
 ---
