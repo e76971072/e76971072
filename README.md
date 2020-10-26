@@ -4,7 +4,7 @@
 
 
 
-## I'm a First-generation college student, Developer !!
+## I'm a First-generation college student and Developer !!
 ![Twitter Follow](https://img.shields.io/twitter/follow/nguyenbaoan1?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/e76971072?style=social)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/e76971072/Final-Project-Game/KevinBranch/1914f3a21cd0402cd92807d9dc488e17f93e3131)
