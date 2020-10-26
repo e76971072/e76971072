@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin  - [website] 👋
+### Hi there, I'm Kevin 🕶 - [website] 👋
 
 
 
@@ -31,7 +31,7 @@
 [<img src="https://spotify-playing-myg9ovi23.vercel.app/api/spotify" alt="e76971072 Spotify Playing" width="350" />](https://open.spotify.com/user/e769710)
 <br/>
 
-### Connect with me:
+### Connect with me 🤝
 
 
 [<img align="left" target="_blank" alt="kevinnguyen.team" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,7 +40,7 @@
 
 <br />
 
-### Let's chat 
+### Let's chat 📩 
 
 [![Gmail Badge](https://img.shields.io/badge/-Talk??style=flat&logo=Gmail&logoColor=white&link=mailto:an.nguyen1197@gmail.com)](mailto:an.nguyen1197@gmail.com)
 <br/>
@@ -92,7 +92,7 @@
 
 
 
-### Want to learn Options Trading ? 
+### Want to learn Options Trading ?
 [![Discord](https://img.shields.io/discord/729552489602351114?style=for-the-badge)](https://discord.gg/cszutA)
 
 
