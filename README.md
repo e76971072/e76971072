@@ -12,7 +12,6 @@
 
 
 <br/>
-<br/>
 
 - 🎓  &nbsp; Class of Fall 2020
 - 🏫  &nbsp; I’m currently working as <b> Undergraduate Research Assistant at  University Of Texas at San Antonio </b>
@@ -28,8 +27,6 @@
 <br/>
 
 ### 🎧 <img align="left" alt=" " width="80px" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
-
-
 
 [<img src="https://spotify-playing-myg9ovi23.vercel.app/api/spotify" alt="e76971072 Spotify Playing" width="350" />](https://open.spotify.com/user/e769710)
 <br/>
@@ -95,7 +92,7 @@
 
 
 
-### Want Learn Options Trading ? 
+### Want to learn Options Trading ? 
 ![Discord](https://img.shields.io/discord/729552489602351114?style=for-the-badge)
 
 
