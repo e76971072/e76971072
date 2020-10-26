@@ -6,8 +6,8 @@
 
 ## I'm a First-generation college student, Developer !!
 
-
-- 🌱  &nbsp; I’m currently learning everything 🤣
+- 🎓  &nbsp; Class of Fall 2020
+- 🏫  &nbsp; I’m currently working as <b> Undergraduate Research Assistant at  University Of Texas at San Antonio </b>
 - 👯  &nbsp; I’m looking to collaborate with other developers 
 - 🥅  &nbsp; 2020 Goals: Contribute more to Open Source projects
 - ⚡  &nbsp;  Fun fact: I love to play [soccer] ⚽️  &nbsp;  and [trade options]  💹
