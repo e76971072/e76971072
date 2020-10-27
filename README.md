@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin 🕶 - [website] 👋
+### Hi there, I'm [Kevin] - 🕶 -  👋
 
 
 
@@ -121,4 +121,5 @@
 [linkedin]: https://www.linkedin.com/in/kevin-nguyen-222904127/
 [soccer]:   https://www.facebook.com/Austin-Fusion-FC-310791971273/?ref=page_internal
 [trade options]:   https://thetagang.com/e76971072
+[Kevin]: https://kevinnguyen.team
 
