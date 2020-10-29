@@ -111,7 +111,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=e76971072&show_icons=true&hide_border=true&theme=radical" />
+  ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=e76971072&show_icons=true&theme=react)
 
 </details>
 
