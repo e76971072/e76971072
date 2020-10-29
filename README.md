@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/e76971072/e76971072/blob/master/8C5EF3BE-3E5E-448D-9E12-238FECA7942D.jpeg" alt="drawing" width="500px" height= "20%"/>
+<img src="https://github.com/e76971072/e76971072/blob/master/344565A4-EC1C-4BDE-B438-C6908A82F1CF.jpeg" alt="drawing" height="10%" width="100%" />
 
 
 ## I'm a First-generation college student and Developer !!
