@@ -3,6 +3,8 @@
 
 
 
+<img src="https://github.com/e76971072/e76971072/blob/master/8C5EF3BE-3E5E-448D-9E12-238FECA7942D.jpeg" alt="drawing" width="500px" height= "20%"/>
+
 
 ## I'm a First-generation college student and Developer !!
 ![Twitter Follow](https://img.shields.io/twitter/follow/nguyenbaoan1?style=social)
