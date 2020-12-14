@@ -26,7 +26,7 @@
 ### What am I doing now ??
  
  ```css
- probably showing my mom how to delete her comments. 🤦
+ probably showing my mom how to delete her youtube comments. 🤦
  
  ```
 
