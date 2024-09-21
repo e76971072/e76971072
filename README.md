@@ -6,7 +6,6 @@
 <img src="https://github.com/e76971072/e76971072/blob/master/344565A4-EC1C-4BDE-B438-C6908A82F1CF.jpeg" alt="drawing" height="10%" width="100%" />
 
 
-## I'm a First-generation college student and Developer !!
 ![Twitter Follow](https://img.shields.io/twitter/follow/nguyenbaoan1?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/e76971072?style=social)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/e76971072/Final-Project-Game/KevinBranch/1914f3a21cd0402cd92807d9dc488e17f93e3131)
